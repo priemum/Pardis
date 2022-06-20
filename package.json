@@ -1,0 +1,35 @@
+{
+    "name": "demeter",
+    "description": "The hostess goddess.",
+    "author": "@accretence",
+    "repository": "git@github.com:accretence/demeter.git",
+    "license": "MIT",
+    "version": "0.1.0",
+    "keywords": [],
+    "main": "index.js",
+    "scripts": {
+        "worker": "node index.js",
+        "start": "node index.js",
+        "dev": "nodemon index.js",
+        "stop": "taskkill -F -IM node.exe",
+        "update": "npx npm-check-updates -u"
+    },
+    "dependencies": {
+        "@discordjs/builders": "^0.12.0",
+        "axios": "^0.27.2",
+        "discord-backup": "^3.0.1",
+        "discord.js": "^13.6.0",
+        "dotenv": "^16.0.0",
+        "ethers": "^5.5.4",
+        "mongoose": "^6.2.4",
+        "node-schedule": "^2.1.0",
+        "web3": "^1.7.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    },
+    "engines": {
+        "node": ">=16.8.0",
+        "npm": ">=8.1.3"
+    }
+}
