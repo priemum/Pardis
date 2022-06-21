@@ -1,8 +1,8 @@
 {
-    "name": "demeter",
-    "description": "The hostess goddess.",
+    "name": "hestia",
+    "description": "Self-Hosted Open-Source Discord Bot to onboard & protect community members. It gamifies user entertainment & engagement.",
     "author": "@accretence",
-    "repository": "git@github.com:accretence/demeter.git",
+    "repository": "git@github.com:accretence/hestia.git",
     "license": "MIT",
     "version": "0.1.0",
     "keywords": [],
