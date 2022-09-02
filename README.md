@@ -1,5 +1,3 @@
-![Hestia](https://user-images.githubusercontent.com/45223699/174790000-55532400-de69-4948-9cfe-15ecba4f3b88.jpg)
-
 Self-Hosted Open-Source Discord Bot to onboard & protect community members. It gamifies user entertainment & engagement.
 
 ## Usage
@@ -7,7 +5,7 @@ Self-Hosted Open-Source Discord Bot to onboard & protect community members. It g
 1. Clone using:
 
 ```bash
-git clone https://github.com/Accretence/hestia
+git clone https://github.com/Accretence/pardis
 ```
 
 2. Install dependencies:
