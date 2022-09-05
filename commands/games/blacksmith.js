@@ -11,7 +11,7 @@ const {
 const getUserFactionPair = require('../../functions/core/getUserFactionPair')
 
 module.exports = {
-    ...new SlashCommandBuilder()
+    ...new SlashCommandBuilder()         
         .setName('blacksmith')
         .setDescription('Visit the Blacksmiths Realm & earn some XP...')
         .setDefaultPermission(true),
